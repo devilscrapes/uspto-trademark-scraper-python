@@ -1,0 +1,8 @@
+{
+  "query": "PATAGONIA",
+  "statusFilter": "any",
+  "maxResults": 10,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
